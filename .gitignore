@@ -1,3 +1,10 @@
 __pycache__
 .idea
-.ipynb
+.ipynb_checkpoints
+.env
+notes.txt
+unsloth_compiled_cache
+wandb
+unsloth-qwen2.5-7b-instruct-text-to-sql-v1
+sql_expert--2025-03-12_11.23.04
+sql_expert
